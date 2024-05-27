@@ -1,6 +1,6 @@
-# Projeto de empréstimos
+# Projeto de pagamentos de empréstimos
 
-Este projeto configura um sistema de empréstimos, onde é possível fazer o cadastro de uma pessoa e também atribuí-a a um empréstimo.
+Este projeto configura um sistema de pagamentos de empréstimos, onde é possível atualizar um empréstimo para PAGO.
 
 ## Conteúdo
 
