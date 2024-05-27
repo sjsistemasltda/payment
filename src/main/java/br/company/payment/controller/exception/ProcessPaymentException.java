@@ -1,4 +1,4 @@
-package br.company.loan.controller.exception;
+package br.company.payment.controller.exception;
 
 public class ProcessPaymentException extends RuntimeException {
     public ProcessPaymentException(String message) {

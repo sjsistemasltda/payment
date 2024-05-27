@@ -1,4 +1,4 @@
-package br.company.loan.entity.dto.sqs;
+package br.company.payment.entity.dto.sqs;
 
 import lombok.Getter;
 import lombok.Setter;

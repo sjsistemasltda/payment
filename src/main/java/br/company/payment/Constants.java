@@ -1,4 +1,4 @@
-package br.company.loan;
+package br.company.payment;
 
 public interface Constants {
     String PATH_SEPARATOR = "/";

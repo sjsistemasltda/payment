@@ -1,8 +1,8 @@
-package br.company.loan.service;
+package br.company.payment.service;
 
-import br.company.loan.controller.exception.LoanNotFoundException;
-import br.company.loan.entity.Loan;
-import br.company.loan.entity.dto.response.LoanResponseDTO;
+import br.company.payment.controller.exception.LoanNotFoundException;
+import br.company.payment.entity.Loan;
+import br.company.payment.entity.dto.response.LoanResponseDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

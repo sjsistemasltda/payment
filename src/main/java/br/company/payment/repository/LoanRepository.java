@@ -1,6 +1,6 @@
-package br.company.loan.repository;
+package br.company.payment.repository;
 
-import br.company.loan.entity.Loan;
+import br.company.payment.entity.Loan;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

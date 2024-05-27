@@ -1,6 +1,6 @@
-package br.company.loan.entity;
+package br.company.payment.entity;
 
-import br.company.loan.Constants;
+import br.company.payment.Constants;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

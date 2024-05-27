@@ -1,7 +1,7 @@
-package br.company.loan.service;
+package br.company.payment.service;
 
-import br.company.loan.entity.Loan;
-import br.company.loan.repository.LoanRepository;
+import br.company.payment.entity.Loan;
+import br.company.payment.repository.LoanRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

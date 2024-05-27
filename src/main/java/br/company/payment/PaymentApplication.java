@@ -1,4 +1,4 @@
-package br.company.loan;
+package br.company.payment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

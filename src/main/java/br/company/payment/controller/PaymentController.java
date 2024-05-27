@@ -1,7 +1,7 @@
-package br.company.loan.controller;
+package br.company.payment.controller;
 
-import br.company.loan.Constants;
-import br.company.loan.service.PaymentService;
+import br.company.payment.Constants;
+import br.company.payment.service.PaymentService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;

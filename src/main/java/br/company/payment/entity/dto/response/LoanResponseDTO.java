@@ -1,6 +1,6 @@
-package br.company.loan.entity.dto.response;
+package br.company.payment.entity.dto.response;
 
-import br.company.loan.entity.Loan;
+import br.company.payment.entity.Loan;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;

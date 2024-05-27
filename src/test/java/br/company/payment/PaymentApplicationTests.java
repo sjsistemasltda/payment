@@ -1,4 +1,4 @@
-package br.company.loan;
+package br.company.payment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

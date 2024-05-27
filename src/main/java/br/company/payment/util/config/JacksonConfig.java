@@ -1,4 +1,4 @@
-package br.company.loan.util.config;
+package br.company.payment.util.config;
 
 import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
 import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateSerializer;

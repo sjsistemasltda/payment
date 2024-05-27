@@ -1,4 +1,4 @@
-package br.company.loan.controller.exception;
+package br.company.payment.controller.exception;
 
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException;
