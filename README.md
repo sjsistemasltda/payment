@@ -6,6 +6,7 @@ Este projeto configura um sistema de pagamentos de empréstimos, onde é possív
 
 - **Loan API**: Aplicação em Java 21 e SpringBoot.
 - [**Arquitetura**](#arquitetura)
+- AspectLogger
 
 ## Pré-requisitos
 
