@@ -12,6 +12,7 @@ Este projeto configura um sistema de pagamentos de empréstimos, onde é possív
 - Docker
 - Docker Compose
 - [IAC](https://github.com/sjsistemasltda/bank_iac)
+- Maven (Opcional para rodar os testes sem IDE)
 
 ## Como usar
 
@@ -31,6 +32,11 @@ Este projeto configura um sistema de pagamentos de empréstimos, onde é possív
 4. **Serviços em funcionamento**:
 - Loan API: http://localhost:8082
 - Actuator: http://localhost:8082/actuator/health
+
+## Execução de testes unitários
+   ```sh
+   mvn test -Dspring.profiles.active=local
+   ```
 
 ## cURLs de exemplo
 
